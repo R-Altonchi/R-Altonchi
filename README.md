@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rafik</h1>
 <h3 align="center">Currently a student.</h3>
 
-<p align="left">  Sometimes I wonder why I do this, then i remember it's cause i'm not good at anything else :,)</p>
+<p align="left">Aspiring programmer working for a better future</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=r-altonchi&label=Profile%20views&color=0e75b6&style=flat" alt="r-altonchi" /> </p>
 
 <h3 align="left">Languages and Tools:</h3>
